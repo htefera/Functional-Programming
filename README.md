@@ -25,8 +25,8 @@ The course is hands on; most units introduce short programs that serve as illust
 
 Get up and running with Scala on your computer. Complete an example assignment to familiarize yourself with our unique way of submitting assignments. In this week, we'll learn the difference between functional imperative programming. We step through the basics of Scala; covering expressions, evaluation, conditionals, functions, and recursion
 
-# Week 2
-### Higher Order Functions
+### [Week 2](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/funsets)
+#### Higher Order Functions
 This week, we will learn about functions as first-class values, and higher order functions. We'll also learn about Scala's syntax and how it's formally defined. Finally, we'll learn about methods, classes, and data abstraction through the design of a data structure for rational number
 
 # Week 3
