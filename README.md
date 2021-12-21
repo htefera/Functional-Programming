@@ -29,8 +29,8 @@ Get up and running with Scala on your computer. Complete an example assignment t
 #### Higher Order Functions
 This week, we will learn about functions as first-class values, and higher order functions. We'll also learn about Scala's syntax and how it's formally defined. Finally, we'll learn about methods, classes, and data abstraction through the design of a data structure for rational number
 
-# Week 3
-### Data and Abstraction
+### [Week 3](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/objsets)
+#### Data and Abstraction
 This week, we will cover traits, and we'll learn how to organize classes into hierarchies. We'll cover the hierarchy of standard Scala types, and see how to organize classes and traits into packages. Finally, we'll touch upon the different sorts of polymorphism in Scala
 
 # Week 4
