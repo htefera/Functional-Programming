@@ -33,8 +33,8 @@ This week, we will learn about functions as first-class values, and higher order
 #### Data and Abstraction
 This week, we will cover traits, and we'll learn how to organize classes into hierarchies. We'll cover the hierarchy of standard Scala types, and see how to organize classes and traits into packages. Finally, we'll touch upon the different sorts of polymorphism in Scala
 
-# Week 4
-### Types and Pattern Matching
+# [Week 4](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/patmat)
+#### Types and Pattern Matching
 This week we'll learn about the relationship between functions and objects in Scala; functions are objects! We'll zoom in on Scala's type system, covering subtyping and generics, and moving on to more advanced aspects of Scala's type system like variance. Finally, we'll cover Scala's most widely used data structure, Lists, and one of Scala's most powerful tools, pattern matching.
 
 
