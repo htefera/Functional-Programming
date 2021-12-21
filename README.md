@@ -21,7 +21,8 @@ The course is hands on; most units introduce short programs that serve as illust
 
 ### [Week 1](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/recfun)
 
-###### Getting Started + Functions & Evaluation
+#### Getting Started + Functions & Evaluation
+
 Get up and running with Scala on your computer. Complete an example assignment to familiarize yourself with our unique way of submitting assignments. In this week, we'll learn the difference between functional imperative programming. We step through the basics of Scala; covering expressions, evaluation, conditionals, functions, and recursion
 
 # Week 2
