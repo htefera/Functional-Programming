@@ -1,6 +1,15 @@
 # Functional Programming Principles In Scala
 
-This is the first course in Functional Programming in Scala specialization
+This is the first course in Functional Programming in Scala specialization.
+### Learning Outcomes:
+
+* understand the principles of functional programming,
+* write purely functional programs, using recursion, pattern matching, and higher-order functions,
+* combine functional programming with objects and classes,
+* design immutable data structures,
+* reason about properties of functions,
+* understand generic types for functional programs
+
 # About this course
 
 Functional programming is becoming increasingly widespread in industry. This trend is driven by the adoption of Scala as the main programming language for many applications. Scala fuses functional and object-oriented programming in a practical package. It interoperates seamlessly with both Java and Javascript. Scala is the implementation language of many important frameworks, including Apache Spark, Kafka, and Akka. It provides the core infrastructure for sites such as Twitter, Tumblr and also Coursera.
@@ -14,3 +23,5 @@ The course is hands on; most units introduce short programs that serve as illust
 
 ### Getting Started + Functions & Evaluation
 Get up and running with Scala on your computer. Complete an example assignment to familiarize yourself with our unique way of submitting assignments. In this week, we'll learn the difference between functional imperative programming. We step through the basics of Scala; covering expressions, evaluation, conditionals, functions, and recursion
+
+
