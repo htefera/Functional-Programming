@@ -40,3 +40,7 @@ This week we'll learn about the relationship between functions and objects in Sc
 # Week 5
 ### Lists
 This week we dive into Lists, the most commonly-used data structure in Scala
+
+# Week 6
+## Collections
+After a deep-dive into Lists, this week we'll explore other data structures; vectors, maps, ranges, arrays, and more. We'll dive into Scala's powerful and flexible for-comprehensions for querying data
