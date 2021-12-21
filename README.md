@@ -19,7 +19,7 @@ In this course you will discover the elements of the functional programming styl
 The course is hands on; most units introduce short programs that serve as illustrations of important concepts and invite you to play with them, modifying and improving them. The course is complemented by a series programming projects as homework assignments
 
 
-# Week 1
+### Week 1 [Week 1](https://github.com/namvdo/functional-programming-principles-in-scala/tree/master/week1/recfun)
 
 ### Getting Started + Functions & Evaluation
 Get up and running with Scala on your computer. Complete an example assignment to familiarize yourself with our unique way of submitting assignments. In this week, we'll learn the difference between functional imperative programming. We step through the basics of Scala; covering expressions, evaluation, conditionals, functions, and recursion
