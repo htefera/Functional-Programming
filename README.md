@@ -52,7 +52,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Variance
 * Demonstration of Huffman coding using pattern matching 
 <br>
-### [Week 5]()
+### [Week 5]() <br>
 ### Scala Lists
 
 * A closer look at List
