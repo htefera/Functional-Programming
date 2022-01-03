@@ -43,7 +43,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Object-oriented set
 <br>
 
-# [Week 4](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/patmat)
+### [Week 4](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/patmat)
 #### Types and Pattern Matching
 
 * Decomposition and pattern matching
@@ -51,10 +51,9 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Subtyping, supertping and Generics
 * Variance
 * Demonstration of Huffman coding using pattern matching 
-
 <br>
 ### [Week 5]()
-### Lists
+### Scala Lists
 * A closer look at List
 * Tuples and generic methods
 * Higher order list functions
