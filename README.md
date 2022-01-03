@@ -74,10 +74,11 @@ This course is given by Coursera and EPFL University[go to the course]()
 
 ### Program Execution
 1. Import as sbt project into IntelliJ
-2. Run the project Into ways 
+2. Run the project into ways 
   *  Run as a main program 
   *  Run with sbt <br>
- Running the program using SBT
+  
+ **Running the program using SBT**
  1. First start sbt in the project root directory
  2. Inside the sbt console 
       * Compile the program using the **compile** command
