@@ -9,7 +9,8 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Design immutable data structures for complex problems
 * Reason out about properties of functions,
 * Understand generic types for functional programs
-*
+<br>
+
 ### Tools, Technologies and Languages
 * **Language**-Scala
 * **Editor or IDE**-IntelliJ
@@ -52,8 +53,8 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Variance
 * Demonstration of Huffman coding using pattern matching 
 <br>
-### [Week 5]() <br>
-### Scala Lists
+### [Week 5](https://github.com/htefera/Functional-Programming-In-Scala/tree/master)
+#### Scala Lists
 
 * A closer look at List
 * Tuples and generic methods
