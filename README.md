@@ -54,10 +54,12 @@ This course is given by Coursera and EPFL University[go to the course]()
 <br>
 ### [Week 5]()
 ### Scala Lists
+
 * A closer look at List
 * Tuples and generic methods
 * Higher order list functions
 * Reduction operation on Lists
+
 <br>
 
 ### [Week 6](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/forcomp)
