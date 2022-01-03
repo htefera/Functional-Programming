@@ -24,6 +24,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Conditionals and value expressions
 * Pass by value and pass by name
 * Recursion and tail recursion functions
+
 <br>
 
 ### [Week 2](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/funsets)
@@ -32,6 +33,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 *  Scala 3 syntax
 *  Functional sets
 <br>
+
 ### [Week 3](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/objsets)
 #### Data and Abstraction
 * Classes and objects
