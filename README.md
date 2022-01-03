@@ -1,6 +1,6 @@
 # Functional Programming Principles In Scala
 
-This is the first course in Functional Programming in Scala specialization.
+This course is given by Coursera and EPFL University[go to the course]()
 ### Course Objectives
 
 * Understand the principles of functional programming,
@@ -18,29 +18,54 @@ This is the first course in Functional Programming in Scala specialization.
 ### [Week 1](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/recfun)
 
 #### Getting Started + Functions & Evaluation
-
-Get up and running with Scala on your computer. Complete an example assignment to familiarize yourself with our unique way of submitting assignments. In this week, we'll learn the difference between functional imperative programming. We step through the basics of Scala; covering expressions, evaluation, conditionals, functions, and recursion
+* Basics of Scala; covering expressions, evaluation, conditionals, functions, and recursion
+* Tools Setup
+* Functions evaluations strategies
+* Conditionals and value expressions
+* Pass by value and pass by name
+* Recursion and tail recursion functions
+<br>
 
 ### [Week 2](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/funsets)
 #### Higher Order Functions
-This week, we will learn about functions as first-class values, and higher order functions. We'll also learn about Scala's syntax and how it's formally defined. Finally, we'll learn about methods, classes, and data abstraction through the design of a data structure for rational number
-
+*  Higher Order functions and currying
+*  Scala 3 syntax
+*   Functional sets
+<br>
 ### [Week 3](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/objsets)
 #### Data and Abstraction
-This week, we will cover traits, and we'll learn how to organize classes into hierarchies. We'll cover the hierarchy of standard Scala types, and see how to organize classes and traits into packages. Finally, we'll touch upon the different sorts of polymorphism in Scala
+* Classes and objects
+* CLass hierarchies
+* Inheritance and polymorphisim 
+* Functions as objects
+* Object-oriented set
+<br>
 
 # [Week 4](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/patmat)
 #### Types and Pattern Matching
-This week we'll learn about the relationship between functions and objects in Scala; functions are objects! We'll zoom in on Scala's type system, covering subtyping and generics, and moving on to more advanced aspects of Scala's type system like variance. Finally, we'll cover Scala's most widely used data structure, Lists, and one of Scala's most powerful tools, pattern matching.
 
+* Decomposition and pattern matching
+* Lists and Enums
+* Subtyping, supertping and Generics
+* Variance
+* Demonstration of Huffman coding using pattern matching 
 
+<br>
 # Week 5
 ### Lists
-This week we dive into Lists, the most commonly-used data structure in Scala
+* A closer look at List
+* Tuples and generic methods
+* Higher order list functions
+* Reduction operation on Lists
+<br>
 
 ### [Week 6](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/forcomp)
 #### Collections
-After a deep-dive into Lists, this week we'll explore other data structures; vectors, maps, ranges, arrays, and more. We'll dive into Scala's powerful and flexible for-comprehensions for querying data
+* Exploring various collections in addition to lists
+* For expressions
+* Maps
+* combinatorial search using collections
+<br>
 
 ### Program Execution
 1. Import as sbt project into IntelliJ
