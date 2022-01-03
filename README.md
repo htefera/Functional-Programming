@@ -53,6 +53,16 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Variance
 * Demonstration of Huffman coding using pattern matching 
 <br>
+
+### [Week 5]()
+#### Scala Lists
+
+* A closer look at lists
+* Tuples and generic methods on lists
+* Higher order list functions
+* Reduction on lists
+<br>
+
 ### [Week 5](https://github.com/htefera/Functional-Programming-In-Scala/tree/master)
 #### Scala Lists
 
