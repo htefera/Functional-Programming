@@ -30,7 +30,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 #### Higher Order Functions
 *  Higher Order functions and currying
 *  Scala 3 syntax
-*   Functional sets
+*  Functional sets
 <br>
 ### [Week 3](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/objsets)
 #### Data and Abstraction
@@ -51,7 +51,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 * Demonstration of Huffman coding using pattern matching 
 
 <br>
-# Week 5
+### [Week 5]()
 ### Lists
 * A closer look at List
 * Tuples and generic methods
