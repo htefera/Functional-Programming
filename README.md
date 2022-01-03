@@ -77,7 +77,7 @@ This course is given by Coursera and EPFL University[go to the course]()
 2. Run the project Into ways 
   *  Run as a main program 
   *  Run with sbt <br>
- Running the program using SBR
+ Running the program using SBT
  1. First start sbt in the project root directory
  2. Inside the sbt console 
       * Compile the program using the **compile** command
