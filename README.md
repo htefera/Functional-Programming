@@ -45,3 +45,13 @@ This week we dive into Lists, the most commonly-used data structure in Scala
 ### [Week 6](https://github.com/htefera/Functional-Programming-In-Scala/tree/master/forcomp)
 #### Collections
 After a deep-dive into Lists, this week we'll explore other data structures; vectors, maps, ranges, arrays, and more. We'll dive into Scala's powerful and flexible for-comprehensions for querying data
+
+### Program Execution
+1. Import as sbt project into IntelliJ
+2. Run the project either as main program or using sbt
+ Running the program using SBR
+ 1. First start sbt in the project root directory
+ 2. Inside the sbt console 
+      * Compile the program using the **compile** command
+      * Test the program using the **test** command
+      * Run the program using the **run** command
